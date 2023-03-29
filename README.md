@@ -1,6 +1,6 @@
 # Gym Review App
 
-#Short description 
+## Short description 
 
 This was a group assignment in the api-development course which is part of the front end developer program at Medieinstitutet. The assignment was to build an SQLite REST-API (with express server) for a map/review site. We decided to build one for gym reviews.
 
